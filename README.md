@@ -1,131 +1,72 @@
-# Hotel Occupancy Analysis Excel Dashboard
-
-An interactive Excel dashboard that provides insights into hotel occupancy trends based on data from the years 2015, 2016, and 2017. The dashboard allows users to filter and analyze data using slicers.
-
-## Table of Contents
-
-- [Introduction](#introduction)
-- [Features](#features)
-- [Insights](#insights)
-- [Usage](#usage)
-- [License](#license)
-
-## Introduction
-
-This Excel dashboard is designed to visualize and analyze hotel occupancy data for the years 2015, 2016, and 2017. It provides an interactive experience through slicers that allow users to filter data and gain insights into various aspects of hotel occupancy.
-
-## User's Manual
+# Hotel-KPI-Analysis
 
 
-| File Name               | Usage                                     |
-|-------------------------|-------------------------------------------|
-| 2015 Data.xlsx          | Data for the year 2015                    |
-| 2016 Data.xlsx          | Data for the year 2016                    |
-| 2017 Data.xlsx          | Data for the year 2017                    |
-| Data Description.xlsx   | Description of the data columns           |
-| Hotel Excel Dashboard.xlsx | The interactive Excel dashboard          |
+![image](https://cdn.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/b99b565b-5336-4cd2-b731-c64c24515600_rw_1200.gif?h=d41ed58a4aa58082b4478ffc4571d416)
+
+# Tools Used
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_gLxksz1I0xvaxGtrrTMJ6ZhosR-TwNFGf9VSzY0URcArA5zr77AnsJ3go9Xso1FOeWK3bJ71B6YF1FtZ5kdb4C3gDbJ0Z4P8UN0W5GtDMP38N-ETY0hKsbfFNwPed64tr9nk3TmfgzApJ_5orUM5O5-4P31JuxaRZIvxIawdOwpJHjG2BydCu4va/s320/download.jpg)
 
 
-<p align="center">
-  <img src="https://cdn.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/b99b565b-5336-4cd2-b731-c64c24515600_rw_1200.gif?h=d41ed58a4aa58082b4478ffc4571d416" alt="Dashboard Demo">
-</p>
+# Problem-statement
+Main aim is to analyze the data of Hotel Chain and extract valuable insights that can help us understand the hotel business, such as occupancy rates, booking patterns, customer demographics, revenue trends, and cancellation rates.
+Also find at least 10 meaningful insights that can help improve business operations and decision-making.
 
-## Features
+# Our Approach For The Project
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/8617c359-ae36-4f58-b5ea-23615f0edfef)
 
-- Interactive Dashboard: Utilizes slicers for easy data filtering.
-- Data Visualization: Presents insights through charts and graphs.
-- Yearly Comparison: Compares hotel occupancy data across the three years.
+COLLECTION OF HOTEL DATASETS
+DATA CLEANING USING  EXCEL AND MERGED DIFFERENT TABLES BY USING VLOOKUP FUNCTIONS
+VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
+
+# Data Dictionary
+
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/c1ad384e-0308-45d2-9ce6-d0c7347104ea)
+
+# Data Preparation
+Dataset Snapshot:
+![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/e36364a7-5df5-4407-9ebf-07b92e8b55db)
 
 # Dashboard
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBq1q3-sfNw5clixDDLeBzQfHCJsxwZ2-qLCZ7pIG100CtOXAahLEjydJ8J79MQLi71E_TIMbOuPsems_l3RYKBGkfUnnyegtYDhcayy2ichrhCtJeaSJEasPfhjlOyk1K9nnhiAF0muCEKXMNezp0kcnOBCctEHSin9Vp0mPIRSn2Zkm-zy-4Djwp/s16000/dashboard.png" alt="Dashboard ful">
-</p>
 
-# Hotel Expansion Strategy and Analysis
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBq1q3-sfNw5clixDDLeBzQfHCJsxwZ2-qLCZ7pIG100CtOXAahLEjydJ8J79MQLi71E_TIMbOuPsems_l3RYKBGkfUnnyegtYDhcayy2ichrhCtJeaSJEasPfhjlOyk1K9nnhiAF0muCEKXMNezp0kcnOBCctEHSin9Vp0mPIRSn2Zkm-zy-4Djwp/s16000/dashboard.png)
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE6zRp1z8jBvhPyXcIvgJdEO8mbzduqNoS4kuSmAX77gFZbzBjCEfD6ZD0kwvu2XDW_qnlCcpbhqXezqo889yNT6yCn-rhRM3ccmZIttp3cBf_Bil4eEIigZYqCFMEgPHyftRITpUKo4jEHFBTXruzZyoKeCJT0JYiugYvVzUhzuu8_0DGy0JOY8LO/s16000/ezgif.com-crop.gif)
+# Evaluation Criteria
+We evaluated our dashboard based on the following criteria:
 
-Explored the feasibility of expanding the hotel business through comprehensive analysis:
+1. Use of interactive filters and slicers to allow users to customize the data being displayed.
+2. Use of clear and concise data labels to provide additional context for data points.
+3. Proper alignment and spacing of visualizations.
+4. Appropriate font size and color scheme.
+5. Clear and concise titles for visualizations, reports, and dashboards.
+6. Use of appropriate background color to improve the visibility of visualizations.
 
-- Investigated occupancy trends across different regions and room types within the hotel chain.
-  
-- Studied the growth patterns of hotels with consistently high occupancy rates over the years.
-  
-- Analyzed potential correlations between the income level of customers and their preferences for room types and additional services.
-  
-- Compared seasonal trends in hotel bookings post-peak seasons to identify opportunities.
-  
-- Developed a methodology to benchmark each hotel's performance against the chain's average occupancy rate for each year.
-  
-- Devised a framework to visualize the evolution of customer satisfaction scores based on amenities and room types.
-  
-- Analyzed the distribution of bookings from various sources (online platforms, direct bookings, travel agents) over time.
-  
-- Illustrated a way to calculate the average revenue generated by each hotel in different categories (luxury, economy, etc.).
+# Key Insights
 
+1. The cancellation rate  is about greater  than 50%.
 
+2. Direct segments have lower rate of cancellation.
 
-# Interactive Slicer's
-<p align="center">
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE6zRp1z8jBvhPyXcIvgJdEO8mbzduqNoS4kuSmAX77gFZbzBjCEfD6ZD0kwvu2XDW_qnlCcpbhqXezqo889yNT6yCn-rhRM3ccmZIttp3cBf_Bil4eEIigZYqCFMEgPHyftRITpUKo4jEHFBTXruzZyoKeCJT0JYiugYvVzUhzuu8_0DGy0JOY8LO/s16000/ezgif.com-crop.gif" alt="Dashboard ful">
-</p>
+3. The cancellation rate  for online Travel agents/Tour Operators and online Travel  agents is greater than upto 30%.
 
-## Insights
+4. The revenue generated during weekneds and weekdays are mostly equal but slightly differences between them.
 
-1. **Occupancy Trends**
-   - July has the highest customer occupancy across the years.
-   - City hotels have approximately twice the occupancy compared to resort hotels.
-   - Occupancy for resort hotels increases at the end of the year, coinciding with festive and holiday seasons.
+5. Repeated guests do not cancel their bookings it might happen they serve best to their guests and mostly are of some special type of guests also most of the customers are not repeated guests.
 
-2. **Room Type Analysis**
-   - Room Type A is the most reserved (1900+ times), followed by D (181 times).
-   - Interestingly, Room Type A was booked 1952 times but assigned 1966 times, indicating potential room allocation adjustments for other room types.
+6. From the data set we concluded that highest number of bookings are from Portugal may be hotel  is located at Portugal itself and second country is the gbr which means united kingdom which is roughly approximated below 75% of Portugal bookings.
 
-3. **Booking Sources**
-   - Bookings from Online Tour Operators top the list with 1342 bookings.
-   - Bookings from the aviation sector agents are minimal, with an average of just 1 booking a year (total of 3 bookings in 3 years).
+7. The prices of resort hotels are much higher during the month of august.The price of the city hotels varies less and is most expensive during may and September.
 
-4. **Cancellation Insights**
-   - Out of 406 non-refundable bookings, 403 were canceled.
-   - Only 3 non-refundable bookings were honored.
-   - Non-refundable bookings are generally expected to have fewer cancellations, suggesting possible competitive pricing and cancellations for better deals.
+8. When lead time exceeds about above 50, guests frequently cancelled their bookings.
 
-5. **Geographical Distribution**
-   - The hotel chain operates predominantly in Europe, with a strong presence in Portugal and the United Kingdom.
-   - Limited presence in Asia and Southeast Asia.
+9. City hotels has more guests throughout  the year. Resort hotels are slightly closer to city hotels in summer season when by comparing their proportions. From June to September, when costs are at their greatest, few guests stay at the Resort hotel.when  winter season comes the few visitors to both the hotels.
 
+10. As I can see from data set customers from aviation segment do not seem to be staying at the resort hotels and have a relatively lower average daily rate.
 
+# Recommendations
+1. This clearly shows that the prices in the Resort hotel are much higher during the month of August. 
 
-## Usage
+2. There is summer season there in Portugal at that time. The price of the city hotel varies less and is most expensive during may and September where there is spring and autumn season respectively.
 
-1. Clone or download the repository.
-2. Open the Excel dashboard file in a compatible software (e.g., Microsoft Excel).
-3. Navigate through the dashboard by using the provided slicers and filters.
-4. Interact with the charts and graphs to explore the insights further.
+3. Cancellation rate in the direct segment is so  low.
 
-## Future Scope
-
-The Hotel Occupancy Analysis Excel Dashboard provides valuable insights into historical occupancy trends, helping the hotel management make informed decisions. Here are ways in which this dashboard could be instrumental in expanding the hotel business:
-
-1. **Market Expansion**: The dashboard's geographical distribution insights can guide the hotel chain's expansion strategy. It can help identify regions with high demand and potential for growth, assisting in the selection of new locations.
-
-2. **Room Type Optimization**: By analyzing the most and least popular room types, the hotel can optimize its room offerings. This information can guide renovations, adjustments, and marketing efforts to cater to customer preferences.
-
-3. **Seasonal Planning**: The occupancy trends over different months and years help in planning for peak seasons and holidays. It aids in staffing decisions, inventory management, and creating special offers during anticipated busy periods.
-
-4. **Booking Source Strategy**: Understanding which booking sources bring the most business allows the hotel to allocate resources effectively. This insight can be used to negotiate better terms with successful sources and explore collaborations with new ones.
-
-5. **Pricing Strategies**: By analyzing occupancy rates alongside pricing information, the hotel can fine-tune its pricing strategies. Adjustments can be made based on demand patterns to maximize revenue while staying competitive.
-
-6. **Customer Experience Enhancement**: Insights into cancellations and customer behavior can be used to enhance the overall guest experience. Addressing reasons for cancellations and refining services can improve guest satisfaction.
-
-7. **Competitor Analysis**: The dashboard can be a tool to benchmark against competitors. By comparing occupancy rates and other metrics, the hotel can identify areas where it outperforms or needs improvement.
-
-In conclusion, the Hotel Occupancy Analysis Excel Dashboard isn't just a tool for understanding historical data, but a foundation for strategic decision-making that can drive the hotel's expansion and success in the future.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
-
-
-
+4. most people does not preferred to stay at the hotels more than one week. but it seems normally to stay in resort hotels almost 2 weeks may be this changes according to segments.
