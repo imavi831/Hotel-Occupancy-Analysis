@@ -42,11 +42,11 @@ We evaluated our dashboard based on the following criteria:
 
 # Key Insights
 
-1. The cancellation rate  is about greater  than 50%.
+1. july has the highest number of customer occupency and city hotels have twice as much occupency compared to resort hotels
 
 2. Direct segments have lower rate of cancellation.
 
-3. The cancellation rate  for online Travel agents/Tour Operators and online Travel  agents is greater than upto 30%.
+3. Online Tour operators bring us highest number of bookings 1342 whereas aviatoion sector agents brought us least booking 
 
 4. The revenue generated during weekneds and weekdays are mostly equal but slightly differences between them.
 
@@ -56,7 +56,7 @@ We evaluated our dashboard based on the following criteria:
 
 7. The prices of resort hotels are much higher during the month of august.The price of the city hotels varies less and is most expensive during may and September.
 
-8. When lead time exceeds about above 50, guests frequently cancelled their bookings.
+8. The total number of guest that visited hotel is 5878 of which   5586 were adults  263 children and  29 babies
 
 9. City hotels has more guests throughout  the year. Resort hotels are slightly closer to city hotels in summer season when by comparing their proportions. From June to September, when costs are at their greatest, few guests stay at the Resort hotel.when  winter season comes the few visitors to both the hotels.
 
