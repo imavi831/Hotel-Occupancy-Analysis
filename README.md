@@ -1,4 +1,4 @@
-# Hotel-KPI-Analysis
+# Hotel-Occupancy-Analysis
 
 
 ![image](https://cdn.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/b99b565b-5336-4cd2-b731-c64c24515600_rw_1200.gif?h=d41ed58a4aa58082b4478ffc4571d416)
