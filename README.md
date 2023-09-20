@@ -3,13 +3,14 @@
 
 ![image](https://cdn.myportfolio.com/93bea8ef802a988ed8ab44889dc82b83/b99b565b-5336-4cd2-b731-c64c24515600_rw_1200.gif?h=d41ed58a4aa58082b4478ffc4571d416)
 
+# Objective
+Main aim is to analyze the data of Hotel Chain and extract valuable insights that can help us understand the hotel business, such as occupancy rates, booking patterns, customer demographics, revenue trends, and cancellation rates.
+Also find at least 10 meaningful insights that can help improve business operations and decision-making.
+
 # Tools Used
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_gLxksz1I0xvaxGtrrTMJ6ZhosR-TwNFGf9VSzY0URcArA5zr77AnsJ3go9Xso1FOeWK3bJ71B6YF1FtZ5kdb4C3gDbJ0Z4P8UN0W5GtDMP38N-ETY0hKsbfFNwPed64tr9nk3TmfgzApJ_5orUM5O5-4P31JuxaRZIvxIawdOwpJHjG2BydCu4va/s320/download.jpg)
 
 
-# Problem-statement
-Main aim is to analyze the data of Hotel Chain and extract valuable insights that can help us understand the hotel business, such as occupancy rates, booking patterns, customer demographics, revenue trends, and cancellation rates.
-Also find at least 10 meaningful insights that can help improve business operations and decision-making.
 
 # Our Approach For The Project
 ![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/8617c359-ae36-4f58-b5ea-23615f0edfef)
