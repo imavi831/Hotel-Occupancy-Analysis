@@ -46,17 +46,46 @@ VISUALIZING & ANALYZING THE CLEAN DATA USING EXCEL & POWER BI
 Dataset Snapshot:
 ![image](https://github.com/Sudhansu352010/Hotel-KPI-Analysis/assets/131376814/e36364a7-5df5-4407-9ebf-07b92e8b55db)
 
+I employed Power Query in Excel to seamlessly merge data from three separate years (2015, 2016, and 2017) into a unified dataset, facilitating the creation of comprehensive charts and a dynamic dashboard. This data consolidation process streamlined the analysis and visualization of multi-year trends, enabling me to generate insightful visualizations that formed the core of the dashboard, ultimately enhancing data-driven decision-making.
+
+# Data Analysis with Excel
+
+- Customer occupancy by month
+  ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_GU4MuP5_885nGtALCkVSJaROmrBvA9uXxDUaUtXpcGvVVQUSCCdo0nW5Vb8e_MuDjw223jlnkn4lwkFabQ3qhC9zuLHvpkiGhUcZYnaUTTJHQmqcMfG7bVPPOPiohFYR6s1jGGafPq_Ve88XNhJHU4jJCtXojSkUhXusUYX4D2vEGfGwsKXt5lSx/s16000/Screenshot%20(128).png)
+ july has the highest number of customer occupency and city hotels have twice as much occupency compared to resort hotels    although the occupency for resort hotels increases at end of year as there is festive seasaon and winter holiday
+
+- Booking Channels
+  ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipJ8o8BYU2YGluJUUAk6wc_zlUnKBvHtPb1-Qh3w4In8GWu9C8Z2-6F2uOhT_eU3xO_RBG_7ZJ9BWd5lOiscbjnXZY7nK-QyNeaX47W9Wjftu8au8C5Fo7mxStgvuAJ87_XyxWQWeEiKgFKtza6Ktrw8WnvS1-Kgk4EDUuBbCEglUmLgpb7gevoyD3/s16000/Screenshot%20(129).png)
+ Online Tour operators bring us highest number of bookings 1342 whereas aviatoion sector agents brought us least booking the total amount of booking was just 3 in last 3 year with average of just 1 booking a year
+
+- Meals Booking by Hotels
+  ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1HI9GqraMSTkWp1tjXnt_VMHFIeOQ3QFO_jYkBMswZ-68-wZDwh3p-MSyHfQnFc_ZL0rEbEQjVN-KhTSpo5rO7qrC7IAI4ypKintPPf5a5G0CcAqzVym3p6KtwvqxsyrHNVrdVfBkClmE9Lan3PAMWX9ePa8c0n4pmMVH1BdPuasQmLI_XhkC-AD7/s16000/Screenshot%20(130).png)
+ In all the bookings combined 2289 Breakfast(meal packages were ordered) which is understable considering in city hotels people will be at jobs after that and in resort hotels people will stay out more and enjoy local food
+
+- Bookings by room type
+  ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEih0Gf6fsM96Dc8uAqknBhV3sm0Ut1aso0moWAWkcKW608EWGoxc_i4R6VCAgupnoWl028Y5saOFaIbTGdh-jmH_2VaozXZDQLpLeVORftAbnWSLpCyzio0_Moxo3kGe1BU___JVtaAd5EA4NHTCr9K3JIIdrjWQu-anC4sbThkzy_AzbawD8bu5fhj/s16000/Screenshot%20(131).png)
+Room type A is most reserved room type reserved more than 1900 times followed by D room type which was booked 181 times also although 1952 times room type A was booked but was assigned 1966 times which may also mean  that we need to make changes to our other room types so we can offer them the room that they booked 
+
+
 # Dashboard
 
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBq1q3-sfNw5clixDDLeBzQfHCJsxwZ2-qLCZ7pIG100CtOXAahLEjydJ8J79MQLi71E_TIMbOuPsems_l3RYKBGkfUnnyegtYDhcayy2ichrhCtJeaSJEasPfhjlOyk1K9nnhiAF0muCEKXMNezp0kcnOBCctEHSin9Vp0mPIRSn2Zkm-zy-4Djwp/s16000/dashboard.png)
 
 The dashboard is a dynamic mixture of slicers and charts, providing an insightful overview of a prominent hotel chain's performance, primarily operating in Europe during the years 2015, 2016, and 2017. This well-structured dashboard is designed to offer a comprehensive understanding of crucial hotel metrics and trends, enhancing decision-making and strategic planning.
 
+
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhHCa2U9GYqEvxixJaEuomm7Q3kP27RX-OYqwJRftUC6ly2uf9mutmjqVaLHCgYbEmhiXyg8AXdSo-9wGTAjBbC1KOJHLmqziilKqoYrIU_ygMoSS1VU6jjnGruHOCbYAwH3o-w9Z-ThGgKsyS9IvVeiqrYwRUm9EBkZZJ_pRq0FX-gtitki4uuUOsG/s16000/dashboard(1).png)
+
+
 **Left-Side Metrics and Slicers:**
 
 On the left-hand side of the dashboard, users are presented with key performance metrics, including the total number of customers, booking amounts, and the total number of cancellations. These metrics serve as fundamental indicators of the hotel chain's operational health. 
 
 To make the analysis more granular and actionable, there is a slicer provided, allowing users to select specific months of interest. This interactive feature enables users to drill down into monthly data, identifying patterns, and evaluating performance on a month-to-month basis. 
+
+
+![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTefqDgvY98qckrs78Le_TAkM5Dts0c3bnpu_BPwA8l7Ih7ca2_RAUgt0fMPPlG9vsOJa--FYip7LoMF_vK7Dgg2SJ39U8PeUr8Pc2VdYsbBHQr__SBMb1UsgEHqXKUDc3KkjdFJlcDNYRNn37f7nrx5nlmxmtsYe5dxWAe0H6aS-TpT--AmBY2NaR/s16000/dashboard(2).png)
+
 
 **Right-Side Slicers and Key Visualizations:**
 
