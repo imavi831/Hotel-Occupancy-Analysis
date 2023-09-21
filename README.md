@@ -7,6 +7,25 @@
 Main aim is to analyze the data of Hotel Chain and extract valuable insights that can help us understand the hotel business, such as occupancy rates, booking patterns, customer demographics, revenue trends, and cancellation rates.
 Also find at least 10 meaningful insights that can help improve business operations and decision-making.
 
+# Aim of the study
+The aim of this project is to analyze and visualize the performance data of a major hotel chain primarily operating in Europe during the years 2015, 2016, and 2017. The primary objectives of this project include:
+
+1. **Data Exploration:** To thoroughly explore the dataset, understanding its structure, and gaining insights into key metrics related to the hotel chain's operations.
+
+2. **Performance Assessment:** To assess the hotel chain's performance by analyzing critical performance indicators, including the total number of customers, booking amounts, and cancellations.
+
+3. **Temporal Trends:** To identify and analyze temporal trends in the hotel chain's performance, looking for patterns and changes over the years and months.
+
+4. **Segmentation Analysis:** To segment the data based on hotel types (e.g., luxury, mid-range, budget) and agents responsible for customer bookings, allowing for a deeper understanding of how different segments contribute to the overall performance.
+
+5. **Visualization:** To create clear and informative data visualizations, such as line charts and bar charts, that help stakeholders easily interpret and draw meaningful insights from the data.
+
+6. **Interactivity:** To provide an interactive dashboard with slicers, enabling users to filter and drill down into specific data points, facilitating data exploration and decision-making.
+
+7. **Recommendations:** To generate actionable insights and recommendations based on the analysis, helping the hotel chain make informed decisions to improve its operations and maximize profitability.
+
+By achieving these objectives, the project aims to provide a comprehensive view of the hotel chain's historical performance, enabling stakeholders to make data-driven decisions, optimize strategies, and enhance the overall efficiency and profitability of the business.
+
 # Tools Used
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_gLxksz1I0xvaxGtrrTMJ6ZhosR-TwNFGf9VSzY0URcArA5zr77AnsJ3go9Xso1FOeWK3bJ71B6YF1FtZ5kdb4C3gDbJ0Z4P8UN0W5GtDMP38N-ETY0hKsbfFNwPed64tr9nk3TmfgzApJ_5orUM5O5-4P31JuxaRZIvxIawdOwpJHjG2BydCu4va/s320/download.jpg)
 
@@ -30,6 +49,37 @@ Dataset Snapshot:
 # Dashboard
 
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjBq1q3-sfNw5clixDDLeBzQfHCJsxwZ2-qLCZ7pIG100CtOXAahLEjydJ8J79MQLi71E_TIMbOuPsems_l3RYKBGkfUnnyegtYDhcayy2ichrhCtJeaSJEasPfhjlOyk1K9nnhiAF0muCEKXMNezp0kcnOBCctEHSin9Vp0mPIRSn2Zkm-zy-4Djwp/s16000/dashboard.png)
+
+The dashboard is a dynamic mixture of slicers and charts, providing an insightful overview of a prominent hotel chain's performance, primarily operating in Europe during the years 2015, 2016, and 2017. This well-structured dashboard is designed to offer a comprehensive understanding of crucial hotel metrics and trends, enhancing decision-making and strategic planning.
+
+**Left-Side Metrics and Slicers:**
+
+On the left-hand side of the dashboard, users are presented with key performance metrics, including the total number of customers, booking amounts, and the total number of cancellations. These metrics serve as fundamental indicators of the hotel chain's operational health. 
+
+To make the analysis more granular and actionable, there is a slicer provided, allowing users to select specific months of interest. This interactive feature enables users to drill down into monthly data, identifying patterns, and evaluating performance on a month-to-month basis. 
+
+**Right-Side Slicers and Key Visualizations:**
+
+The right-hand side of the dashboard is dedicated to a set of slicers that provide users with the ability to filter data based on several essential parameters:
+
+- **Year Selection:** Users can choose between the years 2015, 2016, and 2017 to view data for a particular year or compare multiple years to identify trends and changes over time.
+
+- **Hotel Type:** This slicer allows users to filter data by the type of hotel, such as luxury, mid-range, or budget hotels. This segmentation is valuable for understanding the performance of different hotel segments within the chain.
+
+- **Agents' Impact:** Users can also filter data by the agents who brought in customers. This insight is particularly valuable for assessing the effectiveness of various agents and partnerships.
+
+**Key Visualizations:**
+
+Complementing the slicers are a set of key visualizations that provide a deeper understanding of the hotel chain's performance:
+
+- **Line Charts:** Line charts illustrate trends over time, allowing users to track changes in metrics like total customers, booking amounts, and cancellations across different months or years. These charts facilitate trend analysis and forecasting.
+
+- **Bar Charts:** Bar charts provide comparisons across different hotel types, making it easy to see how each segment contributes to overall performance. Users can quickly identify which types of hotels are thriving and which may need attention.
+
+This interactive and intuitive dashboard empowers stakeholders to explore the hotel chain's data effortlessly. Whether it's analyzing year-over-year growth, understanding the impact of different hotel types, or evaluating agent performance, this dashboard serves as a powerful tool for data-driven decision-making within the hotel industry.
+
+
+
 ![image](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgE6zRp1z8jBvhPyXcIvgJdEO8mbzduqNoS4kuSmAX77gFZbzBjCEfD6ZD0kwvu2XDW_qnlCcpbhqXezqo889yNT6yCn-rhRM3ccmZIttp3cBf_Bil4eEIigZYqCFMEgPHyftRITpUKo4jEHFBTXruzZyoKeCJT0JYiugYvVzUhzuu8_0DGy0JOY8LO/s16000/ezgif.com-crop.gif)
 # Evaluation Criteria
 We evaluated our dashboard based on the following criteria:
@@ -71,3 +121,17 @@ We evaluated our dashboard based on the following criteria:
 3. Cancellation rate in the direct segment is so  low.
 
 4. most people does not preferred to stay at the hotels more than one week. but it seems normally to stay in resort hotels almost 2 weeks may be this changes according to segments.
+
+Certainly, if the project was based solely on Excel, the challenges and problems faced during its development would be specific to Excel and data analysis within the Excel environment. Here's a revised response to address this:
+
+# Problem Faced
+
+1. **Data Quality and Cleanup:** Dealing with missing or incomplete data in the Excel spreadsheet required careful handling. Decisions had to be made regarding whether to impute missing values or exclude incomplete records.
+   
+2. **Data Integration:**  data was sourced from multiple Excel files or worksheets, integrating and structuring the data consistently within Excel posed a challenge. Data from different years or sources required manual reconciliation.
+
+3. **Data Exploration:** Understanding the dataset and identifying relevant features for analysis required extensive data exploration within Excel. This phase was time-consuming as it involved gaining domain-specific knowledge about the hotel industry using Excel's capabilities.
+
+4. **Visualization in Excel:** Designing informative and visually appealing charts and tables within Excel that effectively communicated the project's findings to stakeholders was a creative challenge. Choosing the right chart types and formatting options in Excel to convey insights accurately was crucial.
+
+
